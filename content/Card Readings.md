@@ -1,3 +1,7 @@
+---
+title: "Card Readings"
+---
+
 ## Dream reading
 
 This card tells of history. Knowledge of the ancient will help you better understand your enemy: __A woman hangs above a roaring fire__. Find her, and you will find the treasure.

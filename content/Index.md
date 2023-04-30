@@ -1,3 +1,6 @@
+---
+title: "Index"
+---
 ## Card Readings / Weird Dreams
 - [Dream Reading](Card%20Readings#Dream%20reading)
 - [Madam Eva's reading](Card%20Readings#Madam%20Eva's%20reading)
