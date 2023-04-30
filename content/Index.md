@@ -11,7 +11,7 @@ title: "Index"
 
 ## Characters
 -  [Argynvost](Characters/Argynvost)
--  [[Count Strahd von Zarovich]]
+-  [[Characters/Count Strahd von Zarovich]]
 - 
 ## Handouts
 ```dataview
