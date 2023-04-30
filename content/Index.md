@@ -7,17 +7,12 @@ title: "Index"
 - [Dream after Argynvostholt](Card%20Readings#Dream) 
 
 ## Artifacts
-```dataview
-LIST  WHERE file.folder = "Artifacts" SORT file.name ASC
-```
+ - [Tome of Strahd](Artifacts/Tome%20of%20Strahd)
+
 ## Characters
-```dataview
-LIST WHERE file.folder = "Characters" SORT file.name ASC
-```
-## Factions
-```dataview
-LIST WHERE file.folder = "Factions" SORT file.name ASC
-```
+-  [Argynvost](Characters/Argynvost)
+-  [[Count Strahd von Zarovich]]
+- 
 ## Handouts
 ```dataview
 LIST WHERE file.folder = "Handouts" SORT file.name ASC
