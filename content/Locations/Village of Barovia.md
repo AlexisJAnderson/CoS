@@ -28,4 +28,4 @@ Green figures appear marching to the forrest in the west, they're they souls of 
 Store owner human male. 
 Sells arrows 10 gp, rations 50 gp, waterskin 2gp. (VERY EXPENSIVE)
 
-[Return to Index](Index)
+[Return to Index](_index.md)

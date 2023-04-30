@@ -1,15 +1,17 @@
 # Crossroad Barovia - Vallaki
 
 ## Madam Eva
-Full Name: Eva
-Age: Old
-Place of Residence: [[Locations/Vistani - Crossroad Barovia - Vallaki]]
-Gender: Female
-Race: Human
-Height:
-Weight:
-Distinguishing Features:
-Clothing Style:
+| Full Name:               | Eva                                                 |
+| ------------------------ | --------------------------------------------------- |
+| Age:                     | Old                                                 |
+| Place of Residence:      | [[Locations/Vistani - Crossroad Barovia - Vallaki]] |
+| Gender:                  | Female                                              |
+| Race:                    | Human                                               |
+| Height:                  |                                                     |
+| Weight:                  |                                                     |
+| Distinguishing Features: |                                                     |
+| Clothing Style:          |                                                     |
+
 Strength:
  - 
 Weaknesses:
@@ -26,15 +28,17 @@ Daughter: Arabel
 Other people : Kasimir (Dusk Elf) 
 
 ## Luvash
-Full Name: Luvash
-Age: Adult
-Place of Residence: [[Locations/Vallaki#Vistani Camp]]
-Gender: Male
-Race: Human
-Height:
-Weight:
-Distinguishing Features: Brown Beard, Brown Hair
-Clothing Style: 
+| Full Name:               | Luvash                             |
+| ------------------------ | ---------------------------------- |
+| Age:                     | Adult                              |
+| Place of Residence:      | [[Locations/Vallaki#Vistani Camp]] |
+| Gender:                  | Male                               |
+| Race:                    | Human                              |
+| Height:                  |                                    |
+| Weight:                  |                                    |
+| Distinguishing Features: | Brown Beard, Brown Hair            |
+| Clothing Style:          |                                    |
+
 Strength:
  - Good hugs and kisses
 Weaknesses:
@@ -43,15 +47,17 @@ Weaknesses:
 - Was whipping a man to punish him for Arabel's dissappearance
 
 ## Arabel
-Full Name: Arabel
-Age: 7
-Place of Residence: [[Locations/Vallaki#Vistani Camp]]
-Gender: Female
-Race: Human
-Height:
-Weight:
-Distinguishing Features:
-Clothing Style:
+| Full Name:               | Arabel                             |
+| ------------------------ | ---------------------------------- |
+| Age:                     | 7                                  |
+| Place of Residence:      | [[Locations/Vallaki#Vistani Camp]] |
+| Gender:                  | Female                             |
+| Race:                    | Human                              |
+| Height:                  |                                    |
+| Weight:                  |                                    |
+| Distinguishing Features: |                                    |
+| Clothing Style:          |                                    |
+
 Strength:
  - Can see the strings of faith
  - Has healing magic
@@ -64,15 +70,17 @@ Weaknesses:
   I see a child a Vistana. You must hurry, for her fate hangs in the balance. Find her at the lake! 
 
 ## Kasimir
-Full Name: Kasimir
-Age:
-Place of Residence: [[Locations/Vallaki#Vistani Camp]]
-Gender: Male
-Race: Dusk Elf
-Height:
-Weight:
-Distinguishing Features:
-Clothing Style:
+| Full Name:               | Kasimir                            |
+| ------------------------ | ---------------------------------- |
+| Age:                     |                                    |
+| Place of Residence:      | [[Locations/Vallaki#Vistani Camp]] |
+| Gender:                  | Male                               |
+| Race:                    | Dusk Elf                           |
+| Height:                  |                                    |
+| Weight:                  |                                    |
+| Distinguishing Features: |                                    |
+| Clothing Style:          |                                    |
+
 Strength:
  - 
 Weaknesses:
@@ -82,4 +90,4 @@ Weaknesses:
 - Likely the dusk elf from the Dream 
   -> This card sheds light on one who will help you greatly in the battle against darkness. Look for a __dusk elf living among the Vistani__. He has suffered a great loss and is haunted by dark dreams. Help him, and he will help you in return.
 
-[Return to Index](Index)
+[Return to Index](_index.md)

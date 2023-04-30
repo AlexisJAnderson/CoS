@@ -4,4 +4,4 @@
 > - [[Characters/Argynvost]]
 
 
-[Return to Index](Index)
+[Return to Index](_index.md)

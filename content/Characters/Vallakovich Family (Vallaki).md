@@ -2,4 +2,4 @@ Father : Baron Vargas
 Mother : Lady Lydia Patrova
 Child : Viktor
 
-[Return to Index](Index)
+[Return to Index](_index.md)

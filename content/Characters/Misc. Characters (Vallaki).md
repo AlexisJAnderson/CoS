@@ -1,13 +1,15 @@
 ## Father Lucian
-Full Name: Lucian
-Age: 
-Place of Residence: [[Locations/Vallaki#Church]]
-Gender: Human
-Race: Male
-Height:
-Weight:
-Distinguishing Features:
-Clothing Style: Priest
+| Full Name:               | Lucian                       |
+| ------------------------ | ---------------------------- |
+| Age:                     |                              |
+| Place of Residence:      | [[Locations/Vallaki#Church]] |
+| Gender:                  | Human                        |
+| Race:                    | Male                         |
+| Height:                  |                              |
+| Weight:                  |                              |
+| Distinguishing Features: |                              |
+| Clothing Style:          | Priest                       |
+
 Strength:
  - 
 Weaknesses:
@@ -16,15 +18,17 @@ Weaknesses:
 - Decapitated by Strahd
 
 ## Head Mistress Claudia
-Full Name: Claudia
-Age: Old
-Place of Residence: [[Locations/Vallaki#Orphanage]]
-Gender: Female
-Race: Human
-Height:
-Weight:
-Distinguishing Features:
-Clothing Style:
+| Full Name:               | Claudia                         |
+| ------------------------ | ------------------------------- |
+| Age:                     | Old                             |
+| Place of Residence:      | [[Locations/Vallaki#Orphanage]] |
+| Gender:                  | Female                          |
+| Race:                    | Human                           |
+| Height:                  |                                 |
+| Weight:                  |                                 |
+| Distinguishing Features: |                                 |
+| Clothing Style:          |                                 |
+
 Strength:
  - Cooperative with PC.
 Weaknesses:
@@ -34,15 +38,17 @@ Weaknesses:
 - Recently appointed, old head mistress died
 
 ## Henrik
-Full Name: Henrik
-Age: Old and feeble
-Place of Residence: [[Locations/Vallaki#Coffinshop]]
-Gender: Male
-Race: Human
-Height:
-Weight:
-Distinguishing Features: Gray hair and beard
-Clothing Style: Commoner
+| Full Name:               | Henrik                           |
+| ------------------------ | -------------------------------- |
+| Age:                     | Old and feeble                   |
+| Place of Residence:      | [[Locations/Vallaki#Coffinshop]] |
+| Gender:                  | Male                             |
+| Race:                    | Human                            |
+| Height:                  |                                  |
+| Weight:                  |                                  |
+| Distinguishing Features: | Gray hair and beard              |
+| Clothing Style:          | Commoner                         |
+
 Strength:
  - 
 Weaknesses:
@@ -54,15 +60,17 @@ Weaknesses:
 - Handed him over to the Burgomaster of Vallaki, was dragged behind a horse. Likely dead.
 
 ## Izek Strazni
-Full Name: Izek Strazni
-Age: Adult
-Place of Residence: [[Locations/Vallaki#Burgomaster's mansion]]
-Gender: Male
-Race: Human / Demon
-Height:
-Weight:
-Distinguishing Features: Possesses a demon hand, missing right arm
-Clothing Style:
+| Full Name:               | Izek Strazni                                |
+| ------------------------ | ------------------------------------------- |
+| Age:                     | Adult                                       |
+| Place of Residence:      | [[Locations/Vallaki#Burgomaster's mansion]] |
+| Gender:                  | Male                                        |
+| Race:                    | Human / Demon                               |
+| Height:                  |                                             |
+| Weight:                  |                                             |
+| Distinguishing Features: | Possesses a demon hand, missing right arm   |
+| Clothing Style:          |                                             |
+
 Strength:
  - Demonhand
 Weaknesses:
@@ -74,15 +82,17 @@ Weaknesses:
 - Evil soul (according to Lady Wachter)
 
 ## Milivoy
-Full Name: Milivoy
-Age: Young
-Place of Residence: [[Locations/Vallaki#Orphanage]]
-Gender: Male
-Race: Human
-Height:
-Weight:
-Distinguishing Features:
-Clothing Style: Commoner
+| Full Name:               | Milivoy                         |
+| ------------------------ | ------------------------------- |
+| Age:                     | Young                           |
+| Place of Residence:      | [[Locations/Vallaki#Orphanage]] |
+| Gender:                  | Male                            |
+| Race:                    | Human                           |
+| Height:                  |                                 |
+| Weight:                  |                                 |
+| Distinguishing Features: |                                 |
+| Clothing Style:          | Commoner                        |
+
 Strength:
  - 
 Weaknesses:
@@ -92,4 +102,4 @@ Weaknesses:
 - Gave the bones to Henrik for money. Note found in shoes.
 - Was afflicted by illness due to the fiend trying to take possession of his body.
 
-[Return to Index](Index)
+[Return to Index](_index.md)

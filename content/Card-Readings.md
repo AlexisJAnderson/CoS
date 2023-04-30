@@ -28,4 +28,4 @@ Your enemy is a creature of darkness, whose powers are beyond mortality. This ca
 You open your eyes and find yourself sitting by a long table in a fine dining hall. You sit at the far end away from the fireplace. On the other end you can see a man, but you can’t make out who it is. You hear him saying “Same voice, same face, same graceful body, she was Tatyana come back to life again. I was absolutely witless from astonishment.” He lifts his goblet of red liquid and takes a sip from it. You try to say something but to your surprise no sound will come out of your mouth. He puts the goblet back on the table and continues “I had nothing left to give but my own life’s blood, but it was hers to take. She would at last be my bride.” Your vision starts to blur as he stands up and suddenly you are engulfed into mist. 
 
 
-[Return to Index](Index)
+[Return to Index](_index.md)

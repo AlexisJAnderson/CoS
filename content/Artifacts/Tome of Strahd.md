@@ -5,4 +5,4 @@ The _Tome of Strahd_ is an ancient work penned by Strahd, a tragic tale of how
 
 Found in [[Locations/Vistani - Crossroad Barovia - Vallaki]] as per Madam Eva's reading.
 
-[Return to Index](Index)
+[Return to Index](_index.md)

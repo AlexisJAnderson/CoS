@@ -1,5 +1,5 @@
 ## Entrance
-![[Pasted image 20230430150924.png]]
+![[Images/Pasted image 20230430150924.png]]
 The stairs have a dragon that spews cold air as you walk up the steps. It however stopped working after the 4-5th time we triggered it.
 
 ## Mausoleum
@@ -12,4 +12,4 @@ Structure contains four empty alcoves, north eastern wall has an inscription in 
 ### Chappel
 
 
-[Return to Index](Index)
+[Return to Index](_index.md)

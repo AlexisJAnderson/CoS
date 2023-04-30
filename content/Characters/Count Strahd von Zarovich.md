@@ -1,12 +1,14 @@
-Full Name: Strahd von Zarovich
-Age:
-Place of Residence: [[Locations/Ravenloft]]
-Gender: Male
-Race: Vampire
-Height:
-Weight:
-Distinguishing Features:
-Clothing Style:
+| Full Name:               | Strahd von Zarovich     |
+| ------------------------ | ----------------------- |
+| Age:                     |                         |
+| Place of Residence:      | [[Locations/Ravenloft]] |
+| Gender:                  | Male                    |
+| Race:                    | Vampire                 |
+| Height:                  |                         |
+| Weight:                  |                         |
+| Distinguishing Features: |                         |
+| Clothing Style:          |                         |
+
 Strength:
  - 
 Weaknesses:
@@ -25,4 +27,4 @@ Weaknesses:
 - [[Handouts/Strahd's invitation]]
 - [[Handouts/Strahd's Letter (Found in Durst House)]]
 
-[Return to Index](Index)
+[Return to Index](_index.md)

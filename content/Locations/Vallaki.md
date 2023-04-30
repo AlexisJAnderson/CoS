@@ -72,4 +72,4 @@ Loot recovered : 4 bolts of silk, 4 set of fine clothing, silverware, a spellboo
 [[Characters/Vistani Members#Vallaki]]
 Hill with houses around the base, on top is a huge tent with wagons circled around it.
 
-[Return to Index](Index)
+[Return to Index](_index.md)

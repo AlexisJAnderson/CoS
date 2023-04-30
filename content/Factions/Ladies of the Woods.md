@@ -1,3 +1,3 @@
 Linked to the Gultiast Tree
 
-[Return to Index](Index)
+[Return to Index](_index.md)

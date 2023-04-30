@@ -29,4 +29,4 @@ Bran found 6 pieces of cheap jewelry.
 
 Might be our windmill according to [[Handouts/Deed to the Windmill]] or maybe there's another windmill.
 
-[Return to Index](Index)
+[Return to Index](_index.md)
