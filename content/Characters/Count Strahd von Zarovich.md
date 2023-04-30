@@ -1,0 +1,28 @@
+Full Name: Strahd von Zarovich
+Age:
+Place of Residence: [[Ravenloft]]
+Gender: Male
+Race: Vampire
+Height:
+Weight:
+Distinguishing Features:
+Clothing Style:
+Strength:
+ - 
+Weaknesses:
+ - Doesn't seem to be able to use his powers on Ireena 
+
+<u>Notes:</u>
+- Possesses a flaming, flying black horse.
+- Can speak telepathically to PC.
+- Calls the party his toys
+- Knows about Gertruda, information lured out during meeting @ [[Vallaki#Coffinshop]]
+- Says : "He sees it all, he knows it all."
+- Made a deal with Lady Wachter when she was in her teens.
+
+<u>Related handouts:</u>
+- [[Strahd's Crest]]
+- [[Strahd's invitation]]
+- [[Strahd's Letter (Found in Durst House)]]
+
+[Return to Index](Index)
