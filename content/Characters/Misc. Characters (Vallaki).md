@@ -1,7 +1,7 @@
 ## Father Lucian
 Full Name: Lucian
 Age: 
-Place of Residence: [[Vallaki#Church]]
+Place of Residence: [[Locations/Vallaki#Church]]
 Gender: Human
 Race: Male
 Height:
@@ -18,7 +18,7 @@ Weaknesses:
 ## Head Mistress Claudia
 Full Name: Claudia
 Age: Old
-Place of Residence: [[Vallaki#Orphanage]]
+Place of Residence: [[Locations/Vallaki#Orphanage]]
 Gender: Female
 Race: Human
 Height:
@@ -36,7 +36,7 @@ Weaknesses:
 ## Henrik
 Full Name: Henrik
 Age: Old and feeble
-Place of Residence: [[Vallaki#Coffinshop]]
+Place of Residence: [[Locations/Vallaki#Coffinshop]]
 Gender: Male
 Race: Human
 Height:
@@ -56,7 +56,7 @@ Weaknesses:
 ## Izek Strazni
 Full Name: Izek Strazni
 Age: Adult
-Place of Residence: [[Vallaki#Burgomaster's mansion]]
+Place of Residence: [[Locations/Vallaki#Burgomaster's mansion]]
 Gender: Male
 Race: Human / Demon
 Height:
@@ -76,7 +76,7 @@ Weaknesses:
 ## Milivoy
 Full Name: Milivoy
 Age: Young
-Place of Residence: [[Vallaki#Orphanage]]
+Place of Residence: [[Locations/Vallaki#Orphanage]]
 Gender: Male
 Race: Human
 Height:

@@ -1,5 +1,5 @@
 Leader : Madam Eva
-Known Camps  : [[Vistani - Crossroad Barovia - Vallaki]], [[Vallaki#Vistani Camp]]
-Known People : [[Vistani Members]]
+Known Camps  : [[Locations/Vistani - Crossroad Barovia - Vallaki]], [[Locations/Vallaki#Vistani Camp]]
+Known People : [[Characters/Vistani Members]]
 
 [Return to Index](Index)

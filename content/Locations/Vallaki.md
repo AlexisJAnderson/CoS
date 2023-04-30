@@ -7,8 +7,8 @@ Laws within Vallaki :
 If any of the laws are breached we will be marked as criminals.
 
 ## Bluewater Inn
-[[Martikov Family (Vallaki)]]
-Ravens on the roof, wolf's heads on pikes
+[[Characters/Martikov Family (Vallaki)]]
+==Ravens on the roof, wolf's heads on pikes==
 Free to stay for 1 night
 
 **Shop**
@@ -26,11 +26,11 @@ Can't ressurect people
 They have an orphanage
 
 Father Lucian is the local Priest, but he was decapitated by Strahd after our meeting leaving us an invitation.  Father Lucian's corpse was purified by fire to avoid him coming back from the dead.
-[[Strahd's invitation]]
+[[Handouts/Strahd's invitation]]
 
 ## Orphanage
 Freek & Myrthel are left there.
-+- 15 kids total + [[Misc. Characters (Vallaki)#Head Mistress Claudia]] + [[Misc. Characters (Vallaki)#Milivoy]]]
++- 15 kids total + [[Characters/Misc. Characters (Vallaki)#Head Mistress Claudia]] + [[Characters/Misc. Characters (Vallaki)#Milivoy]]]
 Infernal runes that were carved in the bed caused nightmares and bruising.
 Felix was being controlled by a Fiend. By destroying the locket we set the fiend free.
 Bran still has the Broken Locket.
@@ -45,7 +45,7 @@ Backpacks for 10 GP
 Hempen rope for 5 GP
 
 ## Coffinshop
-[[Misc. Characters (Vallaki)#Henrik]]
+[[Characters/Misc. Characters (Vallaki)#Henrik]]
 Two-story building, window shutters closed.
 Henrik hosted vampire on the second floor inside boxes, we killed some, but the one with the Bones of Saint Andral escaped, which Strahd burned up afterwards.
 Met Strahd here after the encounter with the Vampires.
@@ -69,7 +69,7 @@ Loot recovered : 4 bolts of silk, 4 set of fine clothing, silverware, a spellboo
 
 
 ## Vistani Camp
-[[Vistani Members]]
+[[Characters/Vistani Members#Vallaki]]
 Hill with houses around the base, on top is a huge tent with wagons circled around it.
 
 [Return to Index](Index)

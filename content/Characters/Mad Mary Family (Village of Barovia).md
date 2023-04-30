@@ -17,7 +17,7 @@ Strength:
 Weaknesses:
  - 
 **Notes:**
-- Was holding a weird doll, not unlike the one Yui found in [[Durst Family (Village of Barovia)]]
+- Was holding a weird doll, not unlike the one Yui found in [[Characters/Durst Family (Village of Barovia)]]
 
 
 #### Gertruda
@@ -36,6 +36,6 @@ Weaknesses:
  - 
 **Notes :**
 - Disappeared one week ago.
-- High probability held by Strahd, due to talk outside of coffinmaker. He knew about her and told us he was more interested in Ireena [[Kolyana Family (Village of Barovia)]].
+- High probability held by Strahd, due to talk outside of coffinmaker. He knew about her and told us he was more interested in Ireena [[Characters/Kolyana Family (Village of Barovia)]].
 
 [Return to Index](Index)

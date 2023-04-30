@@ -3,7 +3,7 @@
 ## Madam Eva
 Full Name: Eva
 Age: Old
-Place of Residence: [[Vistani - Crossroad Barovia - Vallaki]]
+Place of Residence: [[Locations/Vistani - Crossroad Barovia - Vallaki]]
 Gender: Female
 Race: Human
 Height:
@@ -16,8 +16,8 @@ Weaknesses:
  - Can see the strings of faith
  - Has healing power incl. bringing people back from the dead
 **Notes:**
-- Gave us a [[Card Readings#Madam Eva's reading]]
-- Allowed us to collect bounty from her camp, this included the [[Tome of Strahd]]
+- Gave us a [[Card-Readings#Madam Eva's reading]]
+- Allowed us to collect bounty from her camp, this included the [[Artifacts/Tome of Strahd]]
 
 # Vallaki
 Father: Luvash
@@ -28,7 +28,7 @@ Other people : Kasimir (Dusk Elf)
 ## Luvash
 Full Name: Luvash
 Age: Adult
-Place of Residence: Valakki - Vistani Camp
+Place of Residence: [[Locations/Vallaki#Vistani Camp]]
 Gender: Male
 Race: Human
 Height:
@@ -45,7 +45,7 @@ Weaknesses:
 ## Arabel
 Full Name: Arabel
 Age: 7
-Place of Residence: Valakki - Vistani Camp
+Place of Residence: [[Locations/Vallaki#Vistani Camp]]
 Gender: Female
 Race: Human
 Height:
@@ -59,14 +59,14 @@ Weaknesses:
  - Brat
 **Notes:**
 - Seer in training like madam Eva
-- Might be our ally against Strahd ([[Card Readings]]) if Madam Eva's reading is the real one.
+- Might be our ally against Strahd ([[Card-Readings]]) if Madam Eva's reading is the real one.
   This card sheds light on one who will help you greatly in the battle against darkness.
   I see a child a Vistana. You must hurry, for her fate hangs in the balance. Find her at the lake! 
 
 ## Kasimir
 Full Name: Kasimir
 Age:
-Place of Residence: [[Vallaki#Vistani Camp]]
+Place of Residence: [[Locations/Vallaki#Vistani Camp]]
 Gender: Male
 Race: Dusk Elf
 Height:

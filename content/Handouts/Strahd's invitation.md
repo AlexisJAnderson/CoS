@@ -7,6 +7,6 @@ Know that it is I who have brought you to this land, my home, and know that I al
 Your host,  
 Strahd von Zarovich
 
-[[Dinner with Strahd]]
+[[Quests/Dinner with Strahd]]
 [Return to Index](Index)
 

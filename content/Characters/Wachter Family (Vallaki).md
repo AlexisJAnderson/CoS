@@ -5,7 +5,7 @@ Children: Nicolai, Carl, daughter that Viktor turned insane 15 yo
 ## Lady Fiona Wachter
 Full Name: Fiona Wachter
 Age:
-Place of Residence: [[Vallaki#Wachter's mansion]]
+Place of Residence: [[Locations/Vallaki#Wachter's mansion]]
 Gender: Female
 Race: Human
 Height:

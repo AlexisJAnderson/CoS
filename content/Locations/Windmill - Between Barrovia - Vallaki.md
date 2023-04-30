@@ -1,4 +1,4 @@
-Raven's are around the mill. We sense the ravens are warning us
+==Raven's are around the mill. We sense the ravens are warning us.==
 
 ## Ground Floor
 Awfull smell from the barrels.
@@ -27,6 +27,6 @@ Their name are Freek (7yo) and Myrthel (5 yo).
 Yui found 3 potions : Youth, Laughter and Mother's milk.
 Bran found 6 pieces of cheap jewelry.
 
-Might be our windmill according to [[Deed to the Windmill]] or maybe there's another windmill.
+Might be our windmill according to [[Handouts/Deed to the Windmill]] or maybe there's another windmill.
 
 [Return to Index](Index)

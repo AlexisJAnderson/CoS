@@ -1,7 +1,7 @@
 
 >You will find what you are looking for in the Amber Temple
 > 
-> - [[Argynvost]]
+> - [[Characters/Argynvost]]
 
 
 [Return to Index](Index)
