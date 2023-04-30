@@ -9,4 +9,4 @@ _
 _Your dread lord and master,  
 Strahd von Zarovich
 _
-[Return to Index](_index.md)
+[Return to Index](_index)

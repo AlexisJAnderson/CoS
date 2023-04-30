@@ -44,4 +44,4 @@ Weaknesses:
 - Corpse has been incinerated
 - Was part of the people that stormed the castle
 
-[Return to Index](_index.md)
+[Return to Index](_index)

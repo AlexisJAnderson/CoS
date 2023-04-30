@@ -1,3 +1,3 @@
 See [[Quests/Clear the Winery]] and [[Quests/Find the 3 gemstones]]
 
-[Return to Index](_index.md)
+[Return to Index](_index)

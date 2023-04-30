@@ -42,4 +42,4 @@ Weaknesses:
 - Disappeared one week ago.
 - High probability held by Strahd, due to talk outside of coffinmaker. He knew about her and told us he was more interested in Ireena [[Characters/Kolyana Family (Village of Barovia)]].
 
-[Return to Index](_index.md)
+[Return to Index](_index)

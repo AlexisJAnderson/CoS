@@ -90,4 +90,4 @@ Weaknesses:
 - Likely the dusk elf from the Dream 
   -> This card sheds light on one who will help you greatly in the battle against darkness. Look for a __dusk elf living among the Vistani__. He has suffered a great loss and is haunted by dark dreams. Help him, and he will help you in return.
 
-[Return to Index](_index.md)
+[Return to Index](_index)

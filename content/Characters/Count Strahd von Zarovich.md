@@ -27,4 +27,4 @@ Weaknesses:
 - [[Handouts/Strahd's invitation]]
 - [[Handouts/Strahd's Letter (Found in Durst House)]]
 
-[Return to Index](_index.md)
+[Return to Index](_index)

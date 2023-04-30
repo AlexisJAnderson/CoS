@@ -10,4 +10,4 @@ Rose, I wish I could see you blossom into a strong, beautiful woman. Thorne, I w
 
 Goodbye.
 
-[Return to Index](_index.md)
+[Return to Index](_index)

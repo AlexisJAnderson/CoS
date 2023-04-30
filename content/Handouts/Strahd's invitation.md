@@ -8,5 +8,5 @@ Your host,
 Strahd von Zarovich
 
 [[Quests/Dinner with Strahd]]
-[Return to Index](_index.md)
+[Return to Index](_index)
 

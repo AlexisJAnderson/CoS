@@ -45,4 +45,4 @@ Weaknesses:
 - Looks like Strahd's previous lover
 - Stubborn or Strong-willed depending on how you look at it
 
-[Return to Index](_index.md)
+[Return to Index](_index)

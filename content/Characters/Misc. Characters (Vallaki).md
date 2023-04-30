@@ -102,4 +102,4 @@ Weaknesses:
 - Gave the bones to Henrik for money. Note found in shoes.
 - Was afflicted by illness due to the fiend trying to take possession of his body.
 
-[Return to Index](_index.md)
+[Return to Index](_index)

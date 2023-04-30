@@ -27,4 +27,4 @@ Weaknesses:
 - Might have stolen the Champagne Gemstone from [[Characters/Martikov Family (Wizards of Wine)]]
 - Raven sat on top of Bluewater Inn
 
-[Return to Index](_index.md)
+[Return to Index](_index)

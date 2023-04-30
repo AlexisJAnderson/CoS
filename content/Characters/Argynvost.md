@@ -18,4 +18,4 @@ Weaknesses:
 - Leader and founder of the [[Factions/Order of the Silver Dragon]]
 - Slain by [[Characters/Count Strahd von Zarovich]]
 
-[Return to Index](_index.md)
+[Return to Index](_index)

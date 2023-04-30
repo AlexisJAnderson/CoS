@@ -9,4 +9,4 @@ Nursemaid: Name Unk
 - [[Handouts/Strahd's Crest]]
 - [[Handouts/Deed to the Windmill]]
 
-[Return to Index](_index.md)
+[Return to Index](_index)

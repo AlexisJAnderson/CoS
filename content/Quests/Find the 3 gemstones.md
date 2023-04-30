@@ -8,4 +8,4 @@ Dissappeared **3 weeks ago** trackers say it's in [[Locations/Berets]]
 #### LQ Wine Gemstone
 Dissappeared during the last attack **5 days ago**
 
-[Return to Index](_index.md)
+[Return to Index](_index)
