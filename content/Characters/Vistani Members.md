@@ -15,7 +15,7 @@ Strength:
 Weaknesses:
  - Can see the strings of faith
  - Has healing power incl. bringing people back from the dead
-<u>Notes:</u>
+**Notes:**
 - Gave us a [[Card Readings#Madam Eva's reading]]
 - Allowed us to collect bounty from her camp, this included the [[Tome of Strahd]]
 
@@ -39,7 +39,7 @@ Strength:
  - Good hugs and kisses
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - Was whipping a man to punish him for Arabel's dissappearance
 
 ## Arabel
@@ -57,7 +57,7 @@ Strength:
  - Has healing magic
 Weaknesses:
  - Brat
-<u>Notes:</u>
+**Notes:**
 - Seer in training like madam Eva
 - Might be our ally against Strahd ([[Card Readings]]) if Madam Eva's reading is the real one.
   This card sheds light on one who will help you greatly in the battle against darkness.
@@ -77,7 +77,7 @@ Strength:
  - 
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - Sister died and he blames himself
 - Likely the dusk elf from the Dream 
   -> This card sheds light on one who will help you greatly in the battle against darkness. Look for a __dusk elf living among the Vistani__. He has suffered a great loss and is haunted by dark dreams. Help him, and he will help you in return.

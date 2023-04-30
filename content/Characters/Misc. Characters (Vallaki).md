@@ -12,7 +12,7 @@ Strength:
  - 
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - Decapitated by Strahd
 
 ## Head Mistress Claudia
@@ -29,7 +29,7 @@ Strength:
  - Cooperative with PC.
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - Possesses books written in infernal, supposedly to try to see if anything 'matches' the engravings. Most information in the book seems false.
 - Recently appointed, old head mistress died
 
@@ -47,7 +47,7 @@ Strength:
  - 
 Weaknesses:
  - Helped Strahd, willingly or not 
-<u>Notes:</u>
+**Notes:**
 - Facilitated the destruction of St Andal's Bones
 - Stonewalled us hard when trying to gather information.
 - Mumbled for most of the encounter after we discovered the vampires. "The Devil is coming."
@@ -67,7 +67,7 @@ Strength:
  - Demonhand
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - General of the Dead Burgomaster's guards
 - Sister went missing when he was young
 - Obsession with Auburn-haired dolls (according to Lady Wachter) - (might be Ireena)
@@ -87,7 +87,7 @@ Strength:
  - 
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - Is a gravedigger.
 - Gave the bones to Henrik for money. Note found in shoes.
 - Was afflicted by illness due to the fiend trying to take possession of his body.

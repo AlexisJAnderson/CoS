@@ -12,7 +12,7 @@ Strength:
 Weaknesses:
  - Doesn't seem to be able to use his powers on Ireena 
 
-<u>Notes:</u>
+**Notes:**
 - Possesses a flaming, flying black horse.
 - Can speak telepathically to PC.
 - Calls the party his toys
@@ -20,7 +20,7 @@ Weaknesses:
 - Says : "He sees it all, he knows it all."
 - Made a deal with Lady Wachter when she was in her teens.
 
-<u>Related handouts:</u>
+**Related handouts:**
 - [[Strahd's Crest]]
 - [[Strahd's invitation]]
 - [[Strahd's Letter (Found in Durst House)]]

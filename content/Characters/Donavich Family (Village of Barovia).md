@@ -14,7 +14,7 @@ Strength:
  - 
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - Discovered party killed his son. Broke down and started praying no longer responding to the party
 - Believes the Morninglord will save his son
 
@@ -33,7 +33,7 @@ Strength:
  - Walks on walls, ceilings
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - Craving blood, was crying "Father I'm hungry" from inside the basement.
 - Party killed Doru while burrial of the Burgomaster is being burried.
 - Corpse has been incinerated

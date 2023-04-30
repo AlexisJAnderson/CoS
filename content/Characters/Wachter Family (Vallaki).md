@@ -16,7 +16,7 @@ Strength:
  - 
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - Met Strahd in her teens and made a deal with him.
 - Knows of Madam Eva
 - Describes her sons as pranksters (from what we found out they seem to be more like alcoholics (Yui has some strong competition))

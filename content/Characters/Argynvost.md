@@ -12,7 +12,7 @@ Strength:
 Weaknesses:
  - Cursed by the beacon ?(working theory)
 
-<u>Notes:</u>
+**Notes:**
 - Leader and founder of the [[Order of the Silver Dragon]]
 - Slain by [[Count Strahd von Zarovich]]
 

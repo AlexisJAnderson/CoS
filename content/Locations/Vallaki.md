@@ -11,7 +11,7 @@ If any of the laws are breached we will be marked as criminals.
 Ravens on the roof, wolf's heads on pikes
 Free to stay for 1 night
 
-<u>Shop</u>
+**Shop**
 - Low quality wine for 1 CP 
 - High quality wine for 1 SP
 - Wolf steak for 2 GP
@@ -39,7 +39,7 @@ Received 2 potions of healing as reward for dealing with the Fiend.
 
 ## Arasek Wares
 Owned by a middle aged couple.
-<u>Shop</u>
+**Shop**
 Arrows 20 for 5 GP
 Backpacks for 10 GP
 Hempen rope for 5 GP

@@ -16,7 +16,7 @@ Strength:
  - 
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - More comfortable around humans
 - Tasked us with escorting Ireena to Vallaki
 - Stays behind to be the new burgomaster
@@ -36,7 +36,7 @@ Strength:
  - Seems immune to Strahd (Didn't hear him during encounter outside the coffinmaker in Valakki)
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - Doesn't remember the bite
 - Looks like Strahd's previous lover
 - Stubborn or Strong-willed depending on how you look at it

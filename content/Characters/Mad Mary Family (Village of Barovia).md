@@ -16,7 +16,7 @@ Strength:
  - 
 Weaknesses:
  - 
-<u>Notes:</u>
+**Notes:**
 - Was holding a weird doll, not unlike the one Yui found in [[Durst Family (Village of Barovia)]]
 
 
@@ -34,7 +34,7 @@ Strength:
  - 
 Weaknesses:
  - 
-<u>Notes :</u>
+**Notes :**
 - Disappeared one week ago.
 - High probability held by Strahd, due to talk outside of coffinmaker. He knew about her and told us he was more interested in Ireena [[Kolyana Family (Village of Barovia)]].
 
